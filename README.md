@@ -1,0 +1,1 @@
+Created simple and responsive e-commerce home page using only html and css
